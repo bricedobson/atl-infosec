@@ -1,4 +1,5 @@
 ----
+// May need to move this to the index.html file.
 <p align="center">
 <strong><a href="#link1">Link 1</a></strong>
 |
