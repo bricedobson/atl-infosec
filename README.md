@@ -1,5 +1,4 @@
 ----
-
 <p align="center">
 <strong><a href="#link1">Link 1</a></strong>
 |
@@ -11,14 +10,15 @@
 |
 <strong><a href="#link5">Link 5</a></strong>
 </p>
-
 ----
 
 ![markdown logo](assets/user/markdown.svg)
 
-# Markdown Pages - a simple template for Markdown-based sites on GitHub Pages
+# ATL InfoSec
 
 _`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
+
+A mapping of the Atlanta Cyber, Information Security, and Privacy community.
 
 Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/dandalpiaz/markdown-pages) are rendered on [this website](https://dandalpiaz.github.io/markdown-pages) via GitHub Pages. 
 
