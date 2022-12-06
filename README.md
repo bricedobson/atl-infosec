@@ -1,7 +1,8 @@
 
 ![markdown logo](assets/user/markdown.svg)
 
-# ATL InfoSec - A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
+# ATL InfoSec 
+## A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
 
 _`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
 
