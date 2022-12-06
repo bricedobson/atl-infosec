@@ -1,45 +1,21 @@
-----
-// May need to move this to the index.html file.
-<p align="center">
-<strong><a href="#link1">Link 1</a></strong>
-|
-<strong><a href="#link2">Link 2</a></strong>
-|
-<strong><a href="#link3">Link 3</a></strong>
-|
-<strong><a href="#link4">Link 4</a></strong>
-|
-<strong><a href="#link5">Link 5</a></strong>
-</p>
-----
 
 ![markdown logo](assets/user/markdown.svg)
 
-# ATL InfoSec
+# ATL InfoSec - A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
 
 _`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/master/README.md)
-
-A mapping of the Atlanta Cyber, Information Security, and Privacy community.
 
 Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/dandalpiaz/markdown-pages) are rendered on [this website](https://dandalpiaz.github.io/markdown-pages) via GitHub Pages. 
 
 ## Table of Contents
 
-- [About](#about)
+
 - [Getting Started](#getting-started)
 - [File Structure](#file-structure)
 - [Styles](#styles)
 - [Limitations](#limitations)
+- [About](#about)
 
-## About
-
-The purpose of this project was to simplify the creation of a Markdown-based website. There are numerous static site generators (like Jekyll and Hugo) that can use Markdown files for content; however, they require additional backend setup and configuration.
-
-This template is very simple by design - focusing on informational content instead of any special layouts or advanced web elements. Other than GitHub Pages, a site will require no other backend components, and the frontend uses just three libraries:
-
-- **[Showdown JS](http://showdownjs.com/)** - for the conversion of Markdown to HTML
-- **[Pico CSS](https://picocss.com/)** - to add default styles for the site
-- **[Highlight JS](https://highlightjs.org/)** - to add syntax highlighting for code blocks
 
 ## Getting Started 
 
@@ -123,3 +99,21 @@ With no templating engine in use, and a reliance on Markdown for content creatio
 
 - Eliminate 'pages' directory so that GitHub and hosted site can find assets using the same relative paths?
 - Google Translate popping up?
+
+## About
+This site was created to summarize the Cyber Security, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
+
+
+### Want to make a contribution?
+You have a few options.  
+
+* Create an [issue](https://github.com/bricedobson/atl-cyber-infosec-privacy/issues).
+OR
+* Clone the repo, Make the edit yourself, and submit a PR in our [repository](https://github.com/bricedobson/atl-cyber-infosec-privacy).
+OR
+* Email us at <insert>
+
+### Credits
+This project was inspired by [TrailOfBits NYC Infosec](https://www.nyc-infosec.com/https://github.com/trailofbits/nyc-infosec)
+Powered by [GitHub Pages](https://pages.github.com), [Jekyll](https://github.com/jekyll/jekyll), and [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
+This site is maintained by [Brice Dobson](https://github.com/bricedobson)
