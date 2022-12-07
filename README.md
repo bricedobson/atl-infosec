@@ -10,16 +10,50 @@ Create a simple website that utilizes Markdown files for page content. No site g
 
 ## Table of Contents
 
-
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Styles](#styles)
-- [Limitations](#limitations)
+- [Meetups and Events](#meetups-and-events)
+- [Organizations](#organizations)
+- [Companies](#companies)
 - [About](#about)
 
-## Meetups
+## Meetups and Events
+* Alpharetta Fire Labs Blue/Red Team Meetups [(Website)](https://ics.teamup.com/feed/ksr9z3zjaf5oi62opv/10047657.ics)
+* OWASP Atlanta Meetups [(Website)](https://www.meetup.com/owasp-atlanta/)
+
+# Conferences
+* ISACA Atlanta Geek Week https://engage.isaca.org/atlantachapter/geek-week
+* ISSA Conferencehttps://www.gaissa.org/
+* Southeast Collegiate Cyber Defense Competition https://cyberinstitute.kennesaw.edu/seccdc/index.php
+* BSides Atlanta https://www.bsidesatl.info/
+
+https://ismg.events/summit/southeast-us-cybersecurity-summit-2022
+
+## Organizations
+### Professional Associations 
+* ISSA Metro Atlanta Chapter [(Website)](https://www.gaissa.org/)
+* ISACA Atlanta Chapter [(Website)](https://engage.isaca.org/atlantachapter/home)  
+* Cyversity [(Website)](https://www.cyversity.org/cyversity-atlanta/) [(Slack)]()
+    * Cyversity is a subsidiary of the International Consortium of Minority Cybersecurity Professionals (ICMCP)
+* ISC2 Atlanta Chapter [(Website)](https://atl-isc2.org/index.html)
+* IAPP Atlanta Chapter [(Website)]()
+
+### Communities and Groups
+* Atlanta Cybersecurity Engineers Discord https://discord.com/invite/SCvAgvA
+* Electronic Frontiers Georgia EFGA [(Website)](https://ef-georgia.org/)
+* OWASP Atlanta [(Website)](https://owasp.org/www-chapter-atlanta/)
+* InfraGuard Atlanta Members Alliance [(Website)](https://infragardatlanta.org/) [(Twitter)](https://twitter.com/InfraGard_ATL)
+* ATL2600 https://atl2600.org/
+* Atlanta LockSport [(Website)](https://atlantalocksport.org/)
+
+### DEFCON Groups
+* DC404 (ITP-ish) https://dc404.org/ https://twitter.com/dc404
+* DC678 
+* DC770 http://dc770.org/
+* DCDC470 (North Fulton/South Forsyth) https://dc470.org/
+
 
 ## Companies
+This section highlights Atlanta-based organizaations or those with large Atlanta-based staffs.  Its focus is primarily intended to help with job searches. 
+
 ### Atlanta-Headquartered Fortune 500
 * The Home Depot [(Careers)](https://careers.homedepot.com/job-search-results/)
 * United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.SmallPackageWarehouse%22,%22value%22:%22Yes%22%7D])
@@ -106,20 +140,22 @@ Create a simple website that utilizes Markdown files for page content. No site g
 ### Others
 * Chick-fil-A [(Careers)](https://www.chick-fil-a.com/careers)
 
+### Local Job Boards
+* Atlanta Tech Village Job Board https://atlantatechvillage.com/community/about-us/job-board/
+
 ## About
 This site was created to summarize the Cyber Security, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
-
 
 ### Want to make a contribution?
 You have a few options.  
 
-* Create an [issue](https://github.com/bricedobson/atl-cyber-infosec-privacy/issues).
+* Create an [issue](https://github.com/bricedobson/atl-infosec/issues).
 OR
-* Clone the repo, Make the edit yourself, and submit a PR in our [repository](https://github.com/bricedobson/atl-cyber-infosec-privacy).
+* Clone the repo, Make the edit yourself, and submit a PR in our [repository](https://github.com/bricedobson/atl-infosec).
 OR
-* Email us at <insert>
+* Email us at atlinfosec [at] bricedobson.com 
 
 ### Credits
 This project was inspired by [TrailOfBits NYC Infosec](https://www.nyc-infosec.com/https://github.com/trailofbits/nyc-infosec)
-Powered by [GitHub Pages](https://pages.github.com), [Jekyll](https://github.com/jekyll/jekyll), and [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
+Powered by [GitHub Pages](https://pages.github.com) and [markdown-pages](https://github.com/dandalpiaz/markdown-pages)
 This site is maintained by [Brice Dobson](https://github.com/bricedobson)
