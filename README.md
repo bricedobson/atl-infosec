@@ -17,89 +17,94 @@ Create a simple website that utilizes Markdown files for page content. No site g
 - [Limitations](#limitations)
 - [About](#about)
 
+## Meetups
 
-## Getting Started 
+## Companies
+### Atlanta-Headquartered Fortune 500
+* The Home Depot [(Careers)](https://careers.homedepot.com/job-search-results/)
+* United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.SmallPackageWarehouse%22,%22value%22:%22Yes%22%7D])
+* The Coca-Cola Company [(Careers)](https://careers.coca-colacompany.com/)
+* The Southern Company [(Careers)](https://southerncompany.jobs/jobs/)
+* WestRock [(Careers)](https://www.westrock.com/company/careers)
+* Genuine Parts Company [(Careers)](https://jobs.genpt.com/search-jobs)
+* Delta Airlines [(Careers)](https://delta.avature.net/careers/SearchJobs/?3_98_3=75214)
+* Pulte Group [(Careers)](https://www.themuse.com/profiles/pultegroup)
+* Newell Brands [(Careers)](https://careers.newellbrands.com/us/en/search-results)
+* AGCO [(Careers)](https://careers.agcocorp.com/)
+* Intercontinental Exchange (ICE) [(Careers)](https://egdd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX)
+* Global Payments [(Careers)](https://tsys.wd1.myworkdayjobs.com/en-US/TSYS)
+* Asbury Automotive Group [(Careers)](https://careers-asburyauto.icims.com/jobs/search?ss=1&hashed=-435746464)
+* Graphic Packaging [(Careers)](https://careers.graphicpkg.com/go/All-Jobs/7921500/)
+* Veritiv [(Careers)](https://careers.veritivcorp.com/us/en/search-results)
+* NCR Corporation [(Careers)](https://www.ncr.com/careers)
 
-To set up a site, simply fork or copy the files from the [markdown-pages repository](https://github.com/dandalpiaz/markdown-pages) into your own repo, and then enable GitHub pages for your repository. Steps 2 and 3 in this [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart) show how this is done in the interface. Other steps can be ignored.
+### Atlanta-Headquartered Fortune 500-1000
+* Equifax [(Careers)](https://careers.equifax.com/en/jobs/)
+* Acuity Brands [(Careers)](https://careers.acuitybrands.com/search/?searchby=location&amp;q=&amp;locationsearch=&amp;geolocation=%E2%80%9D)
+* GMS [(Careers)](https://recruiting.ultipro.com/GYP1001GMSI/JobBoard/07c41c47-a6f4-4f15-9b0b-29b77d953303/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
+* BlueLinx [(Careers)](https://bluelinxco.dejobs.org/)
+* Floor & Decor [(Careers)](https://careers.flooranddecor.com/jobs/search)
+* FleetCor [(Careers)](https://www.fleetcor.com/careers/)
+* Gray Television [(Careers)](https://gray.tv/careers)
+* Primerica [(Careers)](https://primerica.wd1.myworkdayjobs.com/PRI)
+* Rollins [(Careers)](https://careers.rollins.com/rollins/jobs)
+* Beazer Homes [(Careers)](https://careers-beazer.icims.com/jobs/search)
+* Americold [(Careers)](https://www.americold.com/careers/)
 
-## File Structure
+### Non-Atlanta Headquartered Large Employers
+*State Farm
+* Truist [(Careers)]() https://careers.truist.com/listjobs/
+* Cox Companies
+    * Cox Enterprises [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
+    * Cox Communications [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-communications/)
+    * Cox Media [(Careers)](https://jobs.coxenterprises.com/en/jobs/?search=&location=&type=&posted=3&company=Cox+Communications&pagesize=20&locname=&lat=&lng=#results)
+    * Cox Automotive [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
+* Automated Data Processing (ADP) [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-automotive/)
 
-```
-markdown-pages/
-|---assets/
-|------user/
-|	   |---favicon.png
-|	   |---example.png
-|---pages/
-|	|---sample-page.md
-|	|---sample-page-2.md
-|---index.html
-|---README.md
-```
+### Big Tech
+* Microsoft (Atlantic Station) [(Careers)](https://careers.microsoft.com/professionals/us/en/l-atlanta)
+* Google (Midtown) [(Careers)](https://careers.google.com/locations/atlanta/)
+* Salesforce (Buckhead) [(Careers)](https://www.salesforce.com/company/careers/atlanta/)
+* VMWare [(Careers)](https://careers.vmware.com/main/jobs)
+* AirWatch [(Careers)](https://careers.vmware.com/main/)
 
-### README.md
+### Cybersecurity and InfoSec Product Companies
+* Apptega [(Careers)](https://www.apptega.com/careers/)
+* Checkmarx [(Careers)](https://checkmarx.com/company/careers/)
+* Cyble [(Careers)](https://cyble.com/career.php)
+* OneTrust [(Careers)](https://www.onetrust.com/careers/all-jobs/)
+* IRONSCALES [(Careers)](https://recruiting.ultipro.com/IRO1007IROS/JobBoard/3d7d015f-f2eb-4f59-aac8-ead943946169/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
+* Cirricula [(Careers)](https://www.curricula.com/careers)
+* Riskonnect [(Careers)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8781b54c-a13e-4584-93c7-fc74cce40486&ccId=19000101_000001&type=MP&lang=en_US)
+* TrustStamp [(Careers)](https://truststamp.ai/Careers.html)
+* DefenseStorm [(Careers)](https://www.defensestorm.com/about-us/careers)
+* Grayshift [(Careers)](https://www.grayshift.com/careers/#current-openings)
+* Arnica [(Careers)](https://www.arnica.io/company/careers)
+* Bluefin [(Careers)](https://www.bluefin.com/careers/)
+* ControlScan [(Careers)](https://www-staging.controlscan.com/about/controlscan-careers/)
+* Ionic Security [(Careers)](NOT SURE ABOUT IT)
+* NexDefense [(Careers)](NOT SURE ABOUT IT)
+* BeyondTrust [(Careers)](https://www.beyondtrust.com/company/careers)
+* Raxis [(Careers)](https://raxis.com/job-postings) 
+* Evident ID [(Careers)](https://www.evidentid.com/careers/#listing)
+* Axio [(Careers)](https://axio.com/careers/)
+* SecurEnds [(Careers)](https://www.securends.com/careers/)
 
-The `README.md` file will provide the content for the homepage of your site. Simply author the file using [Markdown syntax](https://www.markdownguide.org/basic-syntax/).
+### Consulting, Advisory, Audit
+* PricewaterhouseCoopers (PwC) [(Careers)](https://jobs.us.pwc.com/)
+* Deloitte [(Careers)](https://apply.deloitte.com/)
+* BDO [(Careers)](https://www.bdo.com/careers)
+* Rausch [(Careers)](NOT SURE ABOUT IT)
+* RGP [(Careers)](https://careers.rgp.com/)
+* Coalfire [(Careers)](https://www.coalfire.com/careers)
 
-### index.html
+### Managed Security Service Providers
+* SecureWorks [(Careers)](https://www.secureworks.com/careers)
+* IBM Security [(Careers)](https://www.ibm.com/us-en/employment/)
+* LeapFrog IT Services [(Careers)](https://leapfrogservices.com/who-we-are/jobs/)
 
-The `index.html` file does the magic of converting Markdown to HTML. It will also look for a heading level 1 (h1) on the current page and prepend it to the site title. You can add your site title by modifying this line in the header:
-
-```
-&lt;title&gt;Markdown Pages&lt;/title&gt;
-```
-
-There are other lines in the header that you may want to edit as well, such as the meta description and the favicon image name/location.
-
-
-### Pages
-
-Additional pages can be added to the `pages` directory, using Markdown files. To add a link to an additional page, for example, `sample-page.md`, the following link structure can be used: 
-
-```
-Check out the [sample page](?page=sample-page)
-```
-
-Check out the [sample page](?page=sample-page).
-
-### Assets
-
-Images and other files can be added to the `assets/user` directory and linked as needed. 
-
-## Styles
-
-### Dark/Light Mode
-
-The site will include a dark/light mode toggle button by default. When adding images to a page, consider adding images that will contrast well against both a light and dark background.
-
-### Syntax Highlighting
-
-Syntax highlighting will automatically be applied to code blocks, for example:
-
-```
-def my_function():
-  fruits = ['orange', 'apple', 'pear', 'kiwi', 'banana']
-  for fruit in fruits:
-    if fruit == 'banana':
-        print(fruit)
-
-my_function()
-```
-
-## Limitations
-
-With no templating engine in use, and a reliance on Markdown for content creation, this project does have a number of limitations:
-
-- **Local Development** - since the site uses XMLHttpRequest to grab content, a local web server will be needed if you want to see things locally, e.g. `python -m http.server`. However, editing directly in GitHub is part of what is convenient about the project.
-- **Limited element options** - if the element you're trying to use exists in Markdown, the converter should be able to render it as HTML, but this will exclude a lot of more advanced HTML elements.  
-- **No custom layouts** - Markdown used in this way is fairly linear, so you won't be able to do a columns and fancy layouts without a lot of extra work.
-- **No semantic menus/landmarks** - the converter is set to take the Markdown content and place it inside the `<main>` landmark. Other landmarks aren't currently represented. 
-- **No dynamic/reusable content** - currently no mechanism to reuse content across mulitple pages.
-
-## TODO
-
-- Eliminate 'pages' directory so that GitHub and hosted site can find assets using the same relative paths?
-- Google Translate popping up?
+### Others
+* Chick-fil-A [(Careers)](https://www.chick-fil-a.com/careers)
 
 ## About
 This site was created to summarize the Cyber Security, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
