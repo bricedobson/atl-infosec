@@ -24,6 +24,7 @@ Create a simple website that utilizes Markdown files for page content. No site g
 * ISSA Conferencehttps://www.gaissa.org/
 * Southeast Collegiate Cyber Defense Competition https://cyberinstitute.kennesaw.edu/seccdc/index.php
 * BSides Atlanta https://www.bsidesatl.info/
+* FutureCon Atlanta
 
 https://ismg.events/summit/southeast-us-cybersecurity-summit-2022
 
