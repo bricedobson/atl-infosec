@@ -1,7 +1,5 @@
 
 ![markdown logo](assets/user/Logo.png)
-
-# ATL InfoSec 
 ## A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
 
 _`Last Updated: 12/5/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec/edit/master/README.md)
