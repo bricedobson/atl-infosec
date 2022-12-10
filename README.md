@@ -1,5 +1,5 @@
 
-![markdown logo](assets/user/markdown.svg)
+![markdown logo](assets/user/Logo.png)
 
 # ATL InfoSec 
 ## A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
