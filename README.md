@@ -1,11 +1,7 @@
-
 ![markdown logo](assets/user/Logo.png)
 ## A mapping of Atlanta's Cyber, Information Security, and Privacy Community.
 
 _`Last Updated: 12/5/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec/edit/master/README.md)
-
-Create a simple website that utilizes Markdown files for page content. No site generator necessary. Edit directly on GitHub! The pages and files in the [GitHub ![GitHub Logo](assets/user/github.png) repository](https://github.com/dandalpiaz/markdown-pages) are rendered on [this website](https://dandalpiaz.github.io/markdown-pages) via GitHub Pages. 
-
 ## Table of Contents
 
 - [Meetups and Events](#meetups-and-events)
@@ -17,14 +13,19 @@ Create a simple website that utilizes Markdown files for page content. No site g
 * Alpharetta Fire Labs Blue/Red Team Meetups [(Website)](https://ics.teamup.com/feed/ksr9z3zjaf5oi62opv/10047657.ics)
 * OWASP Atlanta Meetups [(Website)](https://www.meetup.com/owasp-atlanta/)
 
-# Conferences
-* ISACA Atlanta Geek Week https://engage.isaca.org/atlantachapter/geek-week
-* ISSA Conferencehttps://www.gaissa.org/
-* Southeast Collegiate Cyber Defense Competition https://cyberinstitute.kennesaw.edu/seccdc/index.php
-* BSides Atlanta https://www.bsidesatl.info/
-* FutureCon Atlanta
-
-https://ismg.events/summit/southeast-us-cybersecurity-summit-2022
+## Conferences
+* Q1 (Jan-Mar)
+   * ISACA Atlanta Geek Week [(Website)](https://engage.isaca.org/atlantachapter/geek-week)
+   * Southeast Collegiate Cyber Defense Competition [(Website)](https://cyberinstitute.kennesaw.edu/seccdc/index.php)
+* Q2 (Apr-Jun)
+   * BSides Atlanta https://www.bsidesatl.info/
+   * Data Connectors Atlanta Cybersecurity Conference [(Website)](https://dataconnectors.com/events/2023/june/atlanta-summer/)
+* Q3 (Jul-Sept)
+* Q4 (Oct-Dec)
+   * Georgia ISSA Conference [Website](https://www.gaissa.org/)
+   * Information Security Media Group Southeast US Summit [(Website)](https://ismg.events/summits)
+   * Data Connectors Atlanta Cybersecurity Conference [(Website)](https://dataconnectors.com/events/2023/november/atlanta-winter/)
+   * FutureCon Atlanta CyberSecurity Conference [(Website)](https://futureconevents.com/events/atlanta-ga-2023/)
 
 ## Organizations
 ### Professional Associations 
@@ -36,7 +37,7 @@ https://ismg.events/summit/southeast-us-cybersecurity-summit-2022
 * IAPP Atlanta Chapter [(Website)]()
 
 ### Communities and Groups
-* Atlanta Cybersecurity Engineers Discord https://discord.com/invite/SCvAgvA
+* Atlanta Cybersecurity Engineers Discord [(Invitation Link)](https://discord.com/invite/SCvAgvA)
 * Electronic Frontiers Georgia EFGA [(Website)](https://ef-georgia.org/)
 * OWASP Atlanta [(Website)](https://owasp.org/www-chapter-atlanta/)
 * InfraGuard Atlanta Members Alliance [(Website)](https://infragardatlanta.org/) [(Twitter)](https://twitter.com/InfraGard_ATL)
@@ -44,18 +45,17 @@ https://ismg.events/summit/southeast-us-cybersecurity-summit-2022
 * Atlanta LockSport [(Website)](https://atlantalocksport.org/)
 
 ### DEFCON Groups
-* DC404 (ITP-ish) https://dc404.org/ https://twitter.com/dc404
+* DC404 (ITP-ish) [(Website)](https://dc404.org/) [(Twitter)](https://twitter.com/dc404)
 * DC678 
-* DC770 http://dc770.org/
-* DCDC470 (North Fulton/South Forsyth) https://dc470.org/
-
+* DC770 [(Website)](http://dc770.org/)
+* DCDC470 (North Fulton/South Forsyth) [(Website)](https://dc470.org/)
 
 ## Companies
 This section highlights Atlanta-based organizaations or those with large Atlanta-based staffs.  Its focus is primarily intended to help with job searches. 
 
 ### Atlanta-Headquartered Fortune 500
 * The Home Depot [(Careers)](https://careers.homedepot.com/job-search-results/)
-* United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.SmallPackageWarehouse%22,%22value%22:%22Yes%22%7D])
+* United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs/])
 * The Coca-Cola Company [(Careers)](https://careers.coca-colacompany.com/)
 * The Southern Company [(Careers)](https://southerncompany.jobs/jobs/)
 * WestRock [(Careers)](https://www.westrock.com/company/careers)
@@ -85,13 +85,8 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Americold [(Careers)](https://www.americold.com/careers/)
 
 ### Non-Atlanta Headquartered Large Employers
-*State Farm
+* State Farm [(Careers)](https://jobs.statefarm.com/main/jobs)
 * Truist [(Careers)]() https://careers.truist.com/listjobs/
-* Cox Companies
-    * Cox Enterprises [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
-    * Cox Communications [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-communications/)
-    * Cox Media [(Careers)](https://jobs.coxenterprises.com/en/jobs/?search=&location=&type=&posted=3&company=Cox+Communications&pagesize=20&locname=&lat=&lng=#results)
-    * Cox Automotive [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
 * Automated Data Processing (ADP) [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-automotive/)
 
 ### Big Tech
@@ -138,6 +133,11 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 
 ### Others
 * Chick-fil-A [(Careers)](https://www.chick-fil-a.com/careers)
+* Cox Companies
+    * Cox Enterprises [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
+    * Cox Communications [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-communications/)
+    * Cox Media [(Careers)](https://jobs.coxenterprises.com/en/jobs/?search=&location=&type=&posted=3&company=Cox+Communications&pagesize=20&locname=&lat=&lng=#results)
+    * Cox Automotive [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
 
 ### Local Job Boards
 * Atlanta Tech Village Job Board https://atlantatechvillage.com/community/about-us/job-board/
