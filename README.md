@@ -1,9 +1,8 @@
+_`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec/edit/master/README.md)
 ![markdown logo](assets/user/Logo.png)
 ## A mapping of Atlanta's Cyber and Information Security Community
 
-_`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec/edit/master/README.md)
 ## Table of Contents
-
 - [Meetups and Events](#meetups-and-events)
 - [Organizations](#organizations)
 - [Companies](#companies)
@@ -20,7 +19,6 @@ _`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec
    * Southeast Collegiate Cyber Defense Competition (Feb 10-11) [(Website)](https://cyberinstitute.kennesaw.edu/seccdc/index.php)
    * ISACA Atlanta Geek Week (Mar 13-15) [(Website)](https://engage.isaca.org/atlantachapter/geek-week)
    * CDM Media CISO Atlanta Summit (Mar 21) [(Website)](https://events.cdmmedia.com/event/9e379858-89ab-41e0-965a-eb7b87fcb260/summary)
-
 * Q2 (Apr-Jun)
    * BSides Atlanta https://www.bsidesatl.info/
    * Data Connectors Atlanta Cybersecurity Conference (June 1) [(Website)](https://dataconnectors.com/events/2023/june/atlanta-summer/)
