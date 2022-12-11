@@ -87,16 +87,15 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 ### Non-Atlanta Headquartered Large Employers
 * State Farm [(Careers)](https://jobs.statefarm.com/main/jobs)
 * Truist [(Careers)]() https://careers.truist.com/listjobs/
-* Automated Data Processing (ADP) [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-automotive/)
+* Automated Data Processing (ADP) [(Careers)](https://jobs.adp.com/job-search-results/?language=en)
 
 ### Big Tech
 * Microsoft (Atlantic Station) [(Careers)](https://careers.microsoft.com/professionals/us/en/l-atlanta)
 * Google (Midtown) [(Careers)](https://careers.google.com/locations/atlanta/)
 * Salesforce (Buckhead) [(Careers)](https://www.salesforce.com/company/careers/atlanta/)
 * VMWare [(Careers)](https://careers.vmware.com/main/jobs)
-* AirWatch [(Careers)](https://careers.vmware.com/main/)
 
-### Cybersecurity and InfoSec Product Companies
+### Atlanta-based Cybersecurity and InfoSec Product Companies
 * Apptega [(Careers)](https://www.apptega.com/careers/)
 * Checkmarx [(Careers)](https://checkmarx.com/company/careers/)
 * Cyble [(Careers)](https://cyble.com/career.php)
@@ -110,8 +109,7 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Arnica [(Careers)](https://www.arnica.io/company/careers)
 * Bluefin [(Careers)](https://www.bluefin.com/careers/)
 * ControlScan [(Careers)](https://www-staging.controlscan.com/about/controlscan-careers/)
-* Ionic Security [(Careers)](NOT SURE ABOUT IT)
-* NexDefense [(Careers)](NOT SURE ABOUT IT)
+* NexDefense [(Careers)](https://jobs.lever.co/dragos)
 * BeyondTrust [(Careers)](https://www.beyondtrust.com/company/careers)
 * Raxis [(Careers)](https://raxis.com/job-postings) 
 * Evident ID [(Careers)](https://www.evidentid.com/careers/#listing)
@@ -119,12 +117,12 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * SecurEnds [(Careers)](https://www.securends.com/careers/)
 
 ### Consulting, Advisory, Audit
-* PricewaterhouseCoopers (PwC) [(Careers)](https://jobs.us.pwc.com/)
-* Deloitte [(Careers)](https://apply.deloitte.com/)
-* BDO [(Careers)](https://www.bdo.com/careers)
-* Rausch [(Careers)](NOT SURE ABOUT IT)
+* PricewaterhouseCoopers (PwC) (Midtown) [(Careers)](https://jobs.us.pwc.com/)
+* Deloitte (Downtown) [(Careers)](https://apply.deloitte.com/)
+* BDO (Midtown) [(Careers)](https://www.bdo.com/careers)
+* Rausch Advisory Services (Marietta) [(Careers)](https://rauschadvisory.com/career/)
 * RGP [(Careers)](https://careers.rgp.com/)
-* Coalfire [(Careers)](https://www.coalfire.com/careers)
+* Coalfire (Alpharetta) [(Careers)](https://www.coalfire.com/careers)
 
 ### Managed Security Service Providers
 * SecureWorks [(Careers)](https://www.secureworks.com/careers)
