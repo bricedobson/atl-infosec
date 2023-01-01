@@ -1,19 +1,16 @@
-_`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec/edit/master/README.md)
+_`Last Updated: 1/1/2023`_
 ![markdown logo](assets/user/Logo.png)
 ## A mapping of Atlanta's Cyber and Information Security Community
-
 ## Table of Contents
 - [Meetups and Events](#meetups-and-events)
 - [Organizations](#organizations)
 - [Companies](#companies)
 - [About](#about)
-
 ## Meetups and Events
 * Alpharetta Fire Labs Blue/Red Team Meetups [(Website)](https://ics.teamup.com/feed/ksr9z3zjaf5oi62opv/10047657.ics)
 * OWASP Atlanta has periodic in-person and virtual meetups. [(Website)](https://www.meetup.com/owasp-atlanta/events)
 * DEFCON Atlanta (DC404) meets the third Saturday of every month in the afternoon at Manuel’s Tavern in Atlanta, GA.  [(Calendar)](https://dc404.org/calendar/)
 * Alpharetta Pentest Meetup meets the last Wednesday Every Month in the evenings. [(Website)](https://www.alpharettapentest.com/)
-
 ## Conferences
 * Q1 (Jan-Mar)
     * Cyber Security Summit Atlanta (Feb 10) [(Website)](https://cybersecuritysummit.com/summit/atlanta23-spring/)
@@ -30,7 +27,6 @@ _`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec
     * Information Security Media Group Southeast US Summit [(Website)](https://ismg.events/summits)
     * Data Connectors Atlanta Cybersecurity Conference [(Website)](https://dataconnectors.com/events/2023/november/atlanta-winter/)
     * FutureCon Atlanta CyberSecurity Conference [(Website)](https://futureconevents.com/events/atlanta-ga-2023/)
-
 ## Organizations
 ### Professional Associations 
 * ISSA Metro Atlanta Chapter [(Website)](https://www.gaissa.org/)
@@ -46,7 +42,7 @@ _`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec
 * Electronic Frontiers Georgia EFGA [(Website)](https://ef-georgia.org/)
 * OWASP Atlanta [(Website)](https://owasp.org/www-chapter-atlanta/)
 * InfraGuard Atlanta Members Alliance [(Website)](https://infragardatlanta.org/) [(Twitter)](https://twitter.com/InfraGard_ATL)
-* ATL2600 https://atl2600.org/
+* ATL2600 [(Website)](https://atl2600.org/)
 * Atlanta LockSport [(Website)](https://atlantalocksport.org/)
 
 ### DEFCON Groups
