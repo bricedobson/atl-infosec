@@ -60,12 +60,12 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 
 ### Atlanta-Headquartered Fortune 500
 * The Home Depot [(Careers)](https://careers.homedepot.com/job-search-results/)
-* United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs/])
+* United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs/)
 * The Coca-Cola Company [(Careers)](https://careers.coca-colacompany.com/)
 * The Southern Company [(Careers)](https://southerncompany.jobs/jobs/)
 * WestRock [(Careers)](https://www.westrock.com/company/careers)
 * Genuine Parts Company [(Careers)](https://jobs.genpt.com/search-jobs)
-* Delta Airlines [(Careers)](https://delta.avature.net/careers/SearchJobs/?3_98_3=75214)
+* Delta Airlines [(Careers)](https://delta.avature.net/careers/SearchJobs/)
 * Pulte Group [(Careers)](https://www.themuse.com/profiles/pultegroup)
 * Newell Brands [(Careers)](https://careers.newellbrands.com/us/en/search-results)
 * AGCO [(Careers)](https://careers.agcocorp.com/)
@@ -77,12 +77,12 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * NCR Corporation [(Careers)](https://www.ncr.com/careers)
 
 ### Atlanta-Headquartered Fortune 500-1000
-* Equifax [(Careers)](https://careers.equifax.com/en/jobs/)
+* Equifax (Alpharetta) [(Careers)](https://careers.equifax.com/en/jobs/)
 * Acuity Brands [(Careers)](https://careers.acuitybrands.com/search/?searchby=location&amp;q=&amp;locationsearch=&amp;geolocation=%E2%80%9D)
-* GMS [(Careers)](https://recruiting.ultipro.com/GYP1001GMSI/JobBoard/07c41c47-a6f4-4f15-9b0b-29b77d953303/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
+* GMS (Tucker) [(Careers)](https://recruiting.ultipro.com/GYP1001GMSI/JobBoard/07c41c47-a6f4-4f15-9b0b-29b77d953303/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
 * BlueLinx [(Careers)](https://bluelinxco.dejobs.org/)
 * Floor & Decor [(Careers)](https://careers.flooranddecor.com/jobs/search)
-* FleetCor [(Careers)](https://www.fleetcor.com/careers/)
+* FleetCor (Buckhead) [(Careers)](https://www.fleetcor.com/careers/)
 * Gray Television [(Careers)](https://gray.tv/careers)
 * Primerica [(Careers)](https://primerica.wd1.myworkdayjobs.com/PRI)
 * Rollins [(Careers)](https://careers.rollins.com/rollins/jobs)
@@ -90,9 +90,9 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Americold [(Careers)](https://www.americold.com/careers/)
 
 ### Non-Atlanta Headquartered Large Employers
-* State Farm [(Careers)](https://jobs.statefarm.com/main/jobs)
-* Truist [(Careers)]() https://careers.truist.com/listjobs/
-* Automated Data Processing (ADP) [(Careers)](https://jobs.adp.com/job-search-results/?language=en)
+* State Farm (Dunwoody) [(Careers)](https://jobs.statefarm.com/main/jobs)
+* Truist (Various Locations) [(Careers)](https://careers.truist.com/listjobs/)
+* Automated Data Processing (ADP) (Alpharetta) [(Careers)](https://jobs.adp.com/job-search-results/?language=en)
 
 ### Big Tech
 * Microsoft (Atlantic Station) [(Careers)](https://careers.microsoft.com/professionals/us/en/l-atlanta)
@@ -106,7 +106,7 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Cyble [(Careers)](https://cyble.com/career.php)
 * OneTrust [(Careers)](https://www.onetrust.com/careers/all-jobs/)
 * IRONSCALES [(Careers)](https://recruiting.ultipro.com/IRO1007IROS/JobBoard/3d7d015f-f2eb-4f59-aac8-ead943946169/?q=&o=postedDateDesc&w=&wc=&we=&wpst=)
-* Cirricula [(Careers)](https://www.curricula.com/careers)
+* Cirricula (Recently acquired by Huntress) [(Careers)](https://www.curricula.com/careers)
 * Riskonnect [(Careers)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8781b54c-a13e-4584-93c7-fc74cce40486&ccId=19000101_000001&type=MP&lang=en_US)
 * TrustStamp [(Careers)](https://truststamp.ai/Careers.html)
 * DefenseStorm [(Careers)](https://www.defensestorm.com/about-us/careers)
