@@ -11,24 +11,25 @@ _`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec
 ## Meetups and Events
 * Alpharetta Fire Labs Blue/Red Team Meetups [(Website)](https://ics.teamup.com/feed/ksr9z3zjaf5oi62opv/10047657.ics)
 * OWASP Atlanta has periodic in-person and virtual meetups. [(Website)](https://www.meetup.com/owasp-atlanta/events)
-* DEFCON Atlanta (DC404) meets the third Saturday of every month from 2 P.M. to 4 P.M. at Manuel’s Tavern in Atlanta, GA.  [(Calendar)](https://dc404.org/calendar/)
+* DEFCON Atlanta (DC404) meets the third Saturday of every month in the afternoon at Manuel’s Tavern in Atlanta, GA.  [(Calendar)](https://dc404.org/calendar/)
+* Alpharetta Pentest Meetup meets the last Wednesday Every Month in the evenings. [(Website)](https://www.alpharettapentest.com/)
 
 ## Conferences
 * Q1 (Jan-Mar)
-   * Cyber Security Summit Atlanta (Feb 10) [(Website)](https://cybersecuritysummit.com/summit/atlanta23-spring/)
-   * Southeast Collegiate Cyber Defense Competition (Feb 10-11) [(Website)](https://cyberinstitute.kennesaw.edu/seccdc/index.php)
-   * ISACA Atlanta Geek Week (Mar 13-15) [(Website)](https://engage.isaca.org/atlantachapter/geek-week)
-   * CDM Media CISO Atlanta Summit (Mar 21) [(Website)](https://events.cdmmedia.com/event/9e379858-89ab-41e0-965a-eb7b87fcb260/summary)
+    * Cyber Security Summit Atlanta (Feb 10) [(Website)](https://cybersecuritysummit.com/summit/atlanta23-spring/)
+    * Southeast Collegiate Cyber Defense Competition (Feb 10-11) [(Website)](https://cyberinstitute.kennesaw.edu/seccdc/index.php)
+    * ISACA Atlanta Geek Week (Mar 13-15) [(Website)](https://engage.isaca.org/atlantachapter/geek-week)
+    * CDM Media CISO Atlanta Summit (Mar 21) [(Website)](https://events.cdmmedia.com/event/9e379858-89ab-41e0-965a-eb7b87fcb260/summary)
 * Q2 (Apr-Jun)
-   * BSides Atlanta https://www.bsidesatl.info/
-   * Data Connectors Atlanta Cybersecurity Conference (June 1) [(Website)](https://dataconnectors.com/events/2023/june/atlanta-summer/)
+    * BSides Atlanta [(Website)](https://www.bsidesatl.info/)
+    * Data Connectors Atlanta Cybersecurity Conference (June 1) [(Website)](https://dataconnectors.com/events/2023/june/atlanta-summer/)
 * Q3 (Jul-Sept)
-  * Cyber Security Summit Atlanta (September) [(Website)](https://cybersecuritysummit.com/summit/atlanta23-fall/)
+   * Cyber Security Summit Atlanta (September) [(Website)](https://cybersecuritysummit.com/summit/atlanta23-fall/)
 * Q4 (Oct-Dec)
-   * Georgia ISSA Conference [Website](https://www.gaissa.org/)
-   * Information Security Media Group Southeast US Summit [(Website)](https://ismg.events/summits)
-   * Data Connectors Atlanta Cybersecurity Conference [(Website)](https://dataconnectors.com/events/2023/november/atlanta-winter/)
-   * FutureCon Atlanta CyberSecurity Conference [(Website)](https://futureconevents.com/events/atlanta-ga-2023/)
+    * Georgia ISSA Conference [Website](https://www.gaissa.org/)
+    * Information Security Media Group Southeast US Summit [(Website)](https://ismg.events/summits)
+    * Data Connectors Atlanta Cybersecurity Conference [(Website)](https://dataconnectors.com/events/2023/november/atlanta-winter/)
+    * FutureCon Atlanta CyberSecurity Conference [(Website)](https://futureconevents.com/events/atlanta-ga-2023/)
 
 ## Organizations
 ### Professional Associations 
@@ -37,7 +38,8 @@ _`Last Updated: 12/11/2022`_ [`edit`](https://github.com/bricedobson/atl-infosec
 * Cyversity [(Website)](https://www.cyversity.org/cyversity-atlanta/) [(Slack)]()
     * Cyversity is a subsidiary of the International Consortium of Minority Cybersecurity Professionals (ICMCP)
 * ISC2 Atlanta Chapter [(Website)](https://atl-isc2.org/index.html)
-* IAPP Atlanta Chapter [(Website)]()
+* Technology Association of Georgia (TAG) Information Security Society [(Website)](https://www.tagonline.org/societies/information-security/)
+* IAPP Atlanta Chapter 
 
 ### Communities and Groups
 * Atlanta Cybersecurity Engineers Discord [(Invitation Link)](https://discord.com/invite/SCvAgvA)
@@ -144,7 +146,7 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Atlanta Tech Village Job Board https://atlantatechvillage.com/community/about-us/job-board/
 
 ## About
-This site was created to summarize the Cyber Security, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
+This site was created to summarize the members of the CyberSecurity, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
 
 ### Want to make a contribution?
 You have a few options.  
