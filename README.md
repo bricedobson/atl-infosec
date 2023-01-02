@@ -36,7 +36,6 @@ _`Last Updated: 1/1/2023`_
 * ISC2 Atlanta Chapter [(Website)](https://atl-isc2.org/index.html)
 * Technology Association of Georgia (TAG) Information Security Society [(Website)](https://www.tagonline.org/societies/information-security/)
 * IAPP Atlanta Chapter 
-
 ### Communities and Groups
 * Atlanta Cybersecurity Engineers Discord [(Invitation Link)](https://discord.com/invite/SCvAgvA)
 * Electronic Frontiers Georgia EFGA [(Website)](https://ef-georgia.org/)
@@ -44,16 +43,13 @@ _`Last Updated: 1/1/2023`_
 * InfraGuard Atlanta Members Alliance [(Website)](https://infragardatlanta.org/) [(Twitter)](https://twitter.com/InfraGard_ATL)
 * ATL2600 [(Website)](https://atl2600.org/)
 * Atlanta LockSport [(Website)](https://atlantalocksport.org/)
-
 ### DEFCON Groups
 * DC404 (ITP-ish) [(Website)](https://dc404.org/) [(Twitter)](https://twitter.com/dc404)
 * DC678 
 * DC770 [(Website)](http://dc770.org/)
 * DCDC470 (North Fulton/South Forsyth) [(Website)](https://dc470.org/)
-
 ## Companies
 This section highlights Atlanta-based organizaations or those with large Atlanta-based staffs.  Its focus is primarily intended to help with job searches. 
-
 ### Atlanta-Headquartered Fortune 500
 * The Home Depot [(Careers)](https://careers.homedepot.com/job-search-results/)
 * United Parcel Service (UPS) [(Careers)](https://www.jobs-ups.com/search-jobs/)
@@ -71,7 +67,6 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Graphic Packaging [(Careers)](https://careers.graphicpkg.com/go/All-Jobs/7921500/)
 * Veritiv [(Careers)](https://careers.veritivcorp.com/us/en/search-results)
 * NCR Corporation [(Careers)](https://www.ncr.com/careers)
-
 ### Atlanta-Headquartered Fortune 500-1000
 * Equifax (Alpharetta) [(Careers)](https://careers.equifax.com/en/jobs/)
 * Acuity Brands [(Careers)](https://careers.acuitybrands.com/search/?searchby=location&amp;q=&amp;locationsearch=&amp;geolocation=%E2%80%9D)
@@ -89,13 +84,11 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * State Farm (Dunwoody) [(Careers)](https://jobs.statefarm.com/main/jobs)
 * Truist (Various Locations) [(Careers)](https://careers.truist.com/listjobs/)
 * Automated Data Processing (ADP) (Alpharetta) [(Careers)](https://jobs.adp.com/job-search-results/?language=en)
-
 ### Big Tech
 * Microsoft (Atlantic Station) [(Careers)](https://careers.microsoft.com/professionals/us/en/l-atlanta)
 * Google (Midtown) [(Careers)](https://careers.google.com/locations/atlanta/)
 * Salesforce (Buckhead) [(Careers)](https://www.salesforce.com/company/careers/atlanta/)
 * VMWare [(Careers)](https://careers.vmware.com/main/jobs)
-
 ### Atlanta-based Cybersecurity and InfoSec Product Companies
 * Apptega [(Careers)](https://www.apptega.com/careers/)
 * Checkmarx [(Careers)](https://checkmarx.com/company/careers/)
@@ -116,7 +109,6 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Evident ID [(Careers)](https://www.evidentid.com/careers/#listing)
 * Axio [(Careers)](https://axio.com/careers/)
 * SecurEnds [(Careers)](https://www.securends.com/careers/)
-
 ### Consulting, Advisory, Audit
 * PricewaterhouseCoopers (PwC) (Midtown) [(Careers)](https://jobs.us.pwc.com/)
 * Deloitte (Downtown) [(Careers)](https://apply.deloitte.com/)
@@ -124,12 +116,10 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
 * Rausch Advisory Services (Marietta) [(Careers)](https://rauschadvisory.com/career/)
 * RGP [(Careers)](https://careers.rgp.com/)
 * Coalfire (Alpharetta) [(Careers)](https://www.coalfire.com/careers)
-
 ### Managed Security Service Providers
 * SecureWorks [(Careers)](https://www.secureworks.com/careers)
 * IBM Security [(Careers)](https://www.ibm.com/us-en/employment/)
 * LeapFrog IT Services [(Careers)](https://leapfrogservices.com/who-we-are/jobs/)
-
 ### Others
 * Chick-fil-A [(Careers)](https://www.chick-fil-a.com/careers)
 * Cox Companies
@@ -137,22 +127,17 @@ This section highlights Atlanta-based organizaations or those with large Atlanta
     * Cox Communications [(Careers)](https://jobs.coxenterprises.com/en/about-cox/businesses/cox-communications/)
     * Cox Media [(Careers)](https://jobs.coxenterprises.com/en/jobs/?search=&location=&type=&posted=3&company=Cox+Communications&pagesize=20&locname=&lat=&lng=#results)
     * Cox Automotive [(Careers)](https://jobs.coxenterprises.com/en/jobs/)
-
 ### Local Job Boards
 * Atlanta Tech Village Job Board https://atlantatechvillage.com/community/about-us/job-board/
-
 ## About
 This site was created to summarize the members of the CyberSecurity, Information Security, and Privacy community in Atlanta, Georgia, USA.  This is a non-commercial project.
-
 ### Want to make a contribution?
 You have a few options.  
-
 * Create an [issue](https://github.com/bricedobson/atl-infosec/issues).
 OR
 * Clone the repo, Make the edit yourself, and submit a PR in our [repository](https://github.com/bricedobson/atl-infosec).
 OR
 * Email us at atlinfosec [at] bricedobson.com 
-
 ### Credits
 This project was inspired by [TrailOfBits NYC Infosec](https://www.nyc-infosec.com/https://github.com/trailofbits/nyc-infosec)
 Powered by [GitHub Pages](https://pages.github.com) and [markdown-pages](https://github.com/dandalpiaz/markdown-pages)
